@@ -1,11 +1,11 @@
 # Site settings
 author: bruce willis
-title: 
+title: The journey into coding
 header-img: img/home-bg.png
 email: fashun_vyctum@yahoo.com
 copyright_name: bruce willis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A newbies journal
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BruceBruce
